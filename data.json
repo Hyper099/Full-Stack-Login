@@ -1,0 +1,25 @@
+[
+  {
+    "username": "jayneel",
+    "password": "12345"
+  },
+  {
+    "username": "jayneel1",
+    "password": "12345",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImpheW5lZWwxIiwiaWF0IjoxNzM3MDUwMzczfQ.uGbOsNbFZjm2f6vc9M_H-yZRsZ8sJOQGIBWSWivPFM0"
+  },
+  {
+    "username": "jaybeel",
+    "password": "123",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImpheWJlZWwiLCJpYXQiOjE3MzcwNjI4MzF9.ZLQbElMMPQA8a3tyRSVjrDz9J0PSAYMySbMfVEzX9eI"
+  },
+  {
+    "username": "jayneel2",
+    "password": "1234567",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImpheW5lZWwyIiwiaWF0IjoxNzM3MzIxMTI5fQ.SU7Wg7elSYxYNDgphZDR5XI7Y3QKlQXdO06cfA_RRBk"
+  },
+  {
+    "username": "jayneel3",
+    "password": "123"
+  }
+]

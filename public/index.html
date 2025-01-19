@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Full-Stack-Login</title>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.7.7/axios.min.js"></script>
+   <!-- !Linking axios to use it. -->
+   <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+   <div class="container">
+      <div class="form-section">
+         <h2>Sign Up</h2>
+         <input type="text" id="signup-username" placeholder="Enter Username">
+         <input type="password" id="signup-password" placeholder="Enter Password">
+         <button id="signup-button">Sign Up</button>
+      </div>
+
+      <div class="form-section">
+         <h2>Sign In</h2>
+         <input type="text" id="signin-username" placeholder="Enter Username">
+         <input type="password" id="signin-password" placeholder="Enter Password">
+         <button id="signin-button">Sign In</button>
+      </div>
+
+      <div class="info-section">
+         <h2>User Information</h2>
+         <div id="information"></div>
+      </div>
+
+      <div class="logout-section">
+         <button type="button" id="logout-button">Logout</button>
+      </div>
+   </div>
+
+   <script src="index.js"></script>
+</body>
+
+</html>
