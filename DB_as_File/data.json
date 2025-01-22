@@ -20,6 +20,12 @@
   },
   {
     "username": "jayneel3",
-    "password": "123"
+    "password": "123",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImpheW5lZWwzIiwiaWF0IjoxNzM3MzIyMDUwfQ.rDgaxRod0JRSSurxzd40niPKfnXhU20y4mqPZFib5y0"
+  },
+  {
+    "username": "Jayneel",
+    "password": "123455",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkpheW5lZWwiLCJpYXQiOjE3Mzc1Mzg4MDB9._5cILsojCXAEF9TAiOpavZH9W1JiQJZFTfa-xXvCXfo"
   }
 ]
